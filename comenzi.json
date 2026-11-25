@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "client": "Ion Popescu",
+    "serviciu": "Schimb ulei și filtre",
+    "pret": 450,
+    "status": "In lucru"
+  },
+  {
+    "id": 2,
+    "client": "Elena Ionescu",
+    "serviciu": "Schimb plăcuțe frână",
+    "pret": 320,
+    "status": "Finalizat"
+  }
+]
